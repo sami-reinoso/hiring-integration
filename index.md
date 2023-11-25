@@ -1,2 +1,2 @@
-# Integración de módulo Hiring
+# Integración de módulo Reclutamiento y selección
 
