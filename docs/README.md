@@ -16,9 +16,12 @@ graph LR
 graph LR
     classDef existingSystem fill:#e9e9e9
     classDef system fill:#d3ede4
-    A[Sistema software existente]:::existingSystem
-    A[Sistema software]:::system
+    C[Sistema software existente]:::existingSystem
+    D[Sistema software]:::system
+    C
+    D
     A-- Flujo de datos -->B
+
 ```
 
 | Nombre      | Descripción |
