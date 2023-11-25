@@ -1,3 +1,3 @@
 * [Home](/)
 * [Architecture](architecture.md)
-* [References](docs/references.md)
+* [References](references.md)
