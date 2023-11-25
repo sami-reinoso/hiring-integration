@@ -3,7 +3,7 @@
 ## Objetivo
 > Facilitar la sincronización entre el sistema de 'Reclutamiento y Selección' y el sistema para la gestión de capital humano
 
-![](/docs/images/index-fig1-context.png)
+![](/images/index-fig1-context.png)
 
 ```mermaid
 graph
