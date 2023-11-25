@@ -13,15 +13,18 @@ graph LR
 ```
 
 ```mermaid
-graph LR
+graph RL
+subgraph Referencias
     classDef existingSystem fill:#e9e9e9
     classDef system fill:#d3ede4
-    C[Sistema software existente]:::existingSystem
+    C[Sistema existente]:::existingSystem
     D[Sistema software]:::system
     C
     D
+    subgraph Relaciones
     A-- Flujo de datos -->B
-
+    end
+end
 ```
 
 | Nombre      | Descripción |
