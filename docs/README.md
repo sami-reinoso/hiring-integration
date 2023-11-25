@@ -5,31 +5,6 @@
 
 ![](/images/index-fig1-context.png)
 
-```mermaid
-graph
-subgraph Context
-    classDef existingSystem fill:#e9e9e9
-    classDef system fill:#d3ede4
-    A[Recruitment and hiring]:::existingSystem --> B[Integration]:::system
-    B-->C[Human capital management]:::existingSystem
-end
-```
-
-```mermaid
-graph RL
-subgraph References
-    classDef existingSystem fill:#e9e9e9
-    classDef system fill:#d3ede4
-    C[Existing system]:::existingSystem
-    D[Software system]:::system
-    C
-    D
-    subgraph Relationship
-    A-- Data flow -->B
-    end
-end
-```
-
 | Nombre      | Descripción |
 | ----------- | ----------- |
 | Recruitment and hiring | Sistema de software cuyo objetivo es facilitar y optimizar los procesos relacionados con la adquisición de talento en una organización. Sus funciones abarcan desde la publicación de ofertas de trabajo hasta la selección y contratación de candidatos. |
