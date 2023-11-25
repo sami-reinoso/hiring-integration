@@ -1,0 +1,2 @@
+# Integración de módulo Hiring
+
