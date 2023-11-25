@@ -5,29 +5,31 @@
 
 
 ```mermaid
-graph LR
+graph
+subgraph Context
     classDef existingSystem fill:#e9e9e9
     classDef system fill:#d3ede4
-    A[Reclutamiento y selección]:::existingSystem --> B[Integración]:::system
-    B-->C[Gestión de capital humano]:::existingSystem
+    A[Recruitment and hiring]:::existingSystem --> B[Integration]:::system
+    B-->C[Human capital management]:::existingSystem
+end
 ```
 
 ```mermaid
 graph RL
-subgraph Referencias
+subgraph References
     classDef existingSystem fill:#e9e9e9
     classDef system fill:#d3ede4
-    C[Sistema existente]:::existingSystem
-    D[Sistema software]:::system
+    C[Existing system]:::existingSystem
+    D[Software system]:::system
     C
     D
-    subgraph Relaciones
-    A-- Flujo de datos -->B
+    subgraph Relationship
+    A-- Data flow -->B
     end
 end
 ```
 
 | Nombre      | Descripción |
 | ----------- | ----------- |
-| Reclutamiento y Selección | Este tipo de sistema de software está diseñado para facilitar y optimizar los procesos relacionados con la adquisición de talento en una organización. Sus funciones abarcan desde la publicación de ofertas de trabajo hasta la selección y contratación de candidatos. |
-| Gestión de capital humano | sistema de software se centra en la administración integral de las personas dentro de una organización. Busca optimizar la gestión de colaboradores desde su incorporación hasta su desarrollo y eventual retiro. |
+| Reclutamiento y Selección | Sistema de software cuyo objetivo es facilitar y optimizar los procesos relacionados con la adquisición de talento en una organización. Sus funciones abarcan desde la publicación de ofertas de trabajo hasta la selección y contratación de candidatos. |
+| Human capital management | Sistema de software que se centra en la administración integral de las personas dentro de una organización. Busca optimizar la gestión de colaboradores desde su incorporación hasta su desarrollo y eventual retiro. |
