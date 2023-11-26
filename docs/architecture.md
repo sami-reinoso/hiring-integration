@@ -1,6 +1,6 @@
 # Arquitectura
 
-## Atributos de calidad relevantes
+## Atributos de calidad
 
 Disponibilidad
 Escalabilidad 
@@ -8,7 +8,7 @@ Rendimiento
 Seguridad
 Usabilidad
 
-## Componentes involucrados en la integración
+## Componentes involucrados
 
 ![](/images/architecture-fig1-ntier.png)
 
