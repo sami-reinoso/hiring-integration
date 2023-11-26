@@ -9,11 +9,11 @@ La autenticación unificada busca mejorar la experiencia del usuario al reducir 
 ## Decision
 La opción seleccionada es SSO (Single Sign-On). Esto se elige para simplificar el proceso de inicio de sesión, proporcionar una experiencia de usuario fluida y mejorar la eficiencia al permitir a los usuarios acceder a ambos sistemas con una sola autenticación de manera segura.
 
-## Atributos de Calidad:
+## Consequences
+* Beneficios: Mejora en la usabilidad, reducción de la carga de trabajo para los usuarios, mayor eficiencia en el acceso a los sistemas.
+* Riesgos: Posibles desafíos técnicos durante la implementación de SSO, necesidad de coordinación entre equipos de desarrollo.
+
+### Quality Attributes
 * Seguridad: Garantizar la seguridad de las credenciales y la integridad de los datos durante el proceso de autenticación mediante SSO.
 * Usabilidad: Mejorar la experiencia del usuario al proporcionar un acceso simplificado y reducir la carga cognitiva asociada con múltiples inicios de sesión.
 * Eficiencia: Optimizar el tiempo de acceso a ambas plataformas al eliminar la necesidad de ingresar credenciales múltiples.
-
-## Consecuencias:
-* Beneficios: Mejora en la usabilidad, reducción de la carga de trabajo para los usuarios, mayor eficiencia en el acceso a los sistemas.
-* Riesgos: Posibles desafíos técnicos durante la implementación de SSO, necesidad de coordinación entre equipos de desarrollo.
