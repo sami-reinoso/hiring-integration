@@ -14,8 +14,8 @@ Usabilidad
 
 | Nombre | Descripción |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Web Application (Recruitment) | Proporciona una interfaz web para el sistema de reclutamiento y selección. |
-| Web Application (Human Capital Management) | Ofrece una interfaz web del sistema de gestión de capital humano. |
+| Recruitment portal | Proporciona una interfaz web para el sistema de reclutamiento y selección. |
+| HCM portal |
 | Identity Provider | Proporciona servicios de autenticación y gestión de identidades para garantizar un acceso seguro a las aplicaciones y sistemas. |
 | Users Tenant n Database | Gestiona la información de usuarios en un tenant específico y la base de datos asociada, asegurando la segregación de datos entre diferentes instancias de la aplicación. |
 | Employee Integration | Facilita la integración de datos relacionados con los empleados desde diversas fuentes, garantizando la coherencia y la actualización de la información. |
@@ -28,8 +28,3 @@ Usabilidad
 | Candidates Tenant n Database | Gestiona información específica sobre candidatos en un tenant específico (tenant) y la base de datos asociada, asegurando la segregación de datos entre diferentes instancias de la aplicación. |
 | Employees Tenant n Database | Gestiona información específica sobre empleados en un tenant específico (tenant) y la base de datos asociada, garantizando la segregación de datos entre diferentes instancias de la aplicación. |
 | Document Tenant n Database | Gestiona información específica sobre documentos en un tenant específico (tenant) y la base de datos asociada, permitiendo el almacenamiento y gestión eficiente de archivos relacionados con los empleados. |
-
-
-
-
-
