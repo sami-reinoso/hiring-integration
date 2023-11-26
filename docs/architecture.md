@@ -15,7 +15,7 @@ Usabilidad
 | Nombre | Descripción |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Recruitment portal | Proporciona una interfaz web para el sistema de reclutamiento y selección. |
-| HCM portal |
+| HCM portal | Proporciona una interfaz web para el sistema de Gestión de capital humano. |
 | Identity Provider | Proporciona servicios de autenticación y gestión de identidades para garantizar un acceso seguro a las aplicaciones y sistemas. |
 | Users Tenant n Database | Gestiona la información de usuarios en un tenant específico y la base de datos asociada, asegurando la segregación de datos entre diferentes instancias de la aplicación. |
 | Employee Integration | Facilita la integración de datos relacionados con los empleados desde diversas fuentes, garantizando la coherencia y la actualización de la información. |
