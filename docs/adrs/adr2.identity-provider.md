@@ -4,16 +4,16 @@
 La aplicación requiere una solución de Single Sign-On (SSO) para mejorar la experiencia del usuario y la seguridad en la autenticación. 
 
 ## Options
-Firebase Authentication:
 
+1. Auth0
 1. Firebase Authentication
-2. Azure Active Directory B2C
-3. Keycloak
-4. PingFederate
-5. Okta Identity Cloud
-6. Gluu Server
-7. Stormpath (ahora Okta)
-8. One Identity
+1. Azure Active Directory B2C
+1. Keycloak
+1. PingFederate
+1. Okta Identity Cloud
+1. Gluu Server
+1. Stormpath (ahora Okta)
+1. One Identity
 
 ## Desicion
 Se ha decidido seleccionar Auth0. Auth0 ofrece una solución integral de identidad y acceso que ofrece SSO para diversas aplicaciones. 
