@@ -3,7 +3,7 @@
 ## Context
 La necesidad de integrar dos sistemas independientes con el objetivo de mejorar la interoperabilidad y la eficiencia operativa.
 
-![](/images/index-fig1-context.jpg)
+![](/images/adr-3-flow.jpg)
 
 > La integración se ejecuta asíncronamente ante la publicación de puestos de trabajo y ante la contratación de un candidato.
 
@@ -14,6 +14,8 @@ La necesidad de integrar dos sistemas independientes con el objetivo de mejorar 
 
 ## Decision
 Se decide adoptar la **Arquitectura Basada en Eventos y Mensajería** para la integración de los sistemas independientes.
+
+![](/images/adr-3-eda.jpg)
 
 ## Consequences
 
