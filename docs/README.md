@@ -13,14 +13,6 @@ Facilitar la sincronización entre el sistema de 'Reclutamiento y Selección' y 
 | Recruitment and hiring | Sistema de software cuyo objetivo es facilitar y optimizar los procesos relacionados con la adquisición de talento en una organización. Sus funciones abarcan desde la publicación de ofertas de trabajo hasta la selección y contratación de candidatos. |
 | Human capital management (HCM) | Sistema de software que se centra en la administración integral de las personas dentro de una organización. Busca optimizar la gestión de colaboradores desde su incorporación hasta su desarrollo y eventual retiro. |
 
-## Atributos de calidad relevantes
-
-* Disponibilidad
-* Escalabilidad 
-* Rendimiento
-* Seguridad
-* Usabilidad
-
 ## Componentes involucrados
 
 ![](/images/architecture-fig1-ntier.jpg)
@@ -36,3 +28,11 @@ Facilitar la sincronización entre el sistema de 'Reclutamiento y Selección' y 
 | Recruitment Database | Gestiona información específica sobre puestos de trabajo, permitiendo un seguimiento detallado de las oportunidades laborales. |
 | Candidates Tenant n Database | Gestiona información específica sobre candidatos, asegurando la segregación de datos entre diferentes instancias de la aplicación. |
 | Employees Tenant n Database | Gestiona información específica sobre empleados, garantizando la segregación de datos entre diferentes instancias de la aplicación. |
+
+## Atributos de calidad relevantes
+
+* Disponibilidad
+* Escalabilidad 
+* Rendimiento
+* Seguridad
+* Usabilidad
