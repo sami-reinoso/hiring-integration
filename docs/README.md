@@ -1,4 +1,4 @@
-# Integración 'Reclutamiento y selección'  <!-- {docsify-ignore-all} -->
+# Integración 'Sistema para la gestión de capital humano'  <!-- {docsify-ignore-all} -->
 
 ## Objetivo
 Facilitar la sincronización entre el sistema de 'Reclutamiento y Selección' y el sistema para la gestión de capital humano
