@@ -31,8 +31,9 @@ Facilitar la sincronización entre el sistema de 'Reclutamiento y Selección' y 
 
 ## Atributos de calidad relevantes
 
-* Disponibilidad
-* Escalabilidad 
-* Rendimiento
-* Seguridad
-* Usabilidad
+* Disponibilidad: La disponibilidad se refiere a la capacidad del sistema de estar operativo y accesible cuando se necesita.
+* Escalabilidad: La escalabilidad se refiere a la capacidad del sistema para manejar un crecimiento en la carga de trabajo sin comprometer su rendimiento.
+* Rendimiento: El rendimiento se refiere a la eficiencia y velocidad con la que el sistema responde a las solicitudes.
+* Seguridad: La seguridad implica proteger la integridad, confidencialidad y disponibilidad de la información. 
+* Usabilidad: La usabilidad se refiere a la facilidad con la que los usuarios pueden interactuar con el sistema.
+* Interoperabilidad: La interoperabilidad se refiere a la capacidad del sistema para integrarse y cooperar con otros sistemas de manera efectiva.
