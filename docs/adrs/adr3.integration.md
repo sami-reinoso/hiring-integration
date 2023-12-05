@@ -3,11 +3,7 @@
 ## Context
 La necesidad de integrar dos sistemas independientes con el objetivo de mejorar la interoperabilidad y la eficiencia operativa.
 
-
-<div>
-<img src="../images/adr-3-flow.jpg" width="500" />
-</div>
-
+![](../images/adr-3-flow.jpg)
 
 > La integración se ejecuta asíncronamente ante la publicación de puestos de trabajo y ante la contratación de un candidato.
 
