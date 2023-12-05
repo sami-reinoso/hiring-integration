@@ -1,4 +1,4 @@
-# ADR #2 - Proveedor de autenticación
+# ADR #2 - Proveedor de identidad
 
 ## Context
 La aplicación requiere una solución de Single Sign-On (SSO) para mejorar la experiencia del usuario y la seguridad en la autenticación. 
@@ -17,6 +17,7 @@ La aplicación requiere una solución de Single Sign-On (SSO) para mejorar la ex
 
 ## Desicion
 Se ha decidido seleccionar Auth0. Auth0 ofrece una solución integral de identidad y acceso que ofrece SSO para diversas aplicaciones. 
+Ambos sistemas, el sistema de selección y el sistema de capital humano, actúan como proveedores de servicio.
 
 ## Consequences
 
