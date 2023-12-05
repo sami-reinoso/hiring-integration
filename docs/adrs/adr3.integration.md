@@ -3,6 +3,10 @@
 ## Context
 La necesidad de integrar dos sistemas independientes con el objetivo de mejorar la interoperabilidad y la eficiencia operativa.
 
+![](/images/index-fig1-context.jpg)
+
+> La integración se ejecuta asíncronamente ante la publicación de puestos de trabajo y ante la contratación de un candidato.
+
 ## Options
 1. **Integración de Base de Datos:** Utilizar una base de datos compartida como punto de integración entre los dos sistemas.
 2. **Integración de Archivos Planos:** Emplear la integración a través de archivos planos para facilitar la transferencia de datos.
