@@ -41,3 +41,7 @@ Ambos sistemas, el sistema de selección y el sistema de capital humano, actúan
 * Requisitos de Conectividad: En situaciones en las que la conectividad a Internet es limitada, la dependencia de un servicio en la nube puede ser un inconveniente.
 * Necesidad de Conocimientos Específicos: Para aprovechar al máximo Auth0, es posible que se requiera cierto nivel de experiencia en autenticación y autorización.
 * Posible Complejidad en Implementaciones Grandes: En implementaciones muy grandes o complejas, la configuración y administración pueden volverse más desafiantes.
+
+#### Post release
+* Costos: La solución multitenancy aumenta los costos
+* Mantenibilidad: Complejidad en la configuración de un nuevo tenant

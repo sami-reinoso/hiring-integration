@@ -55,5 +55,6 @@ En el proceso de integración del Sistema de Gestión de Capital Humano (HCM), s
 Hemos decidido implementar Kafka como la solución de mensajería para la integración. Esta elección se basa en las necesidades específicas del proyecto, considerando factores como escalabilidad, tolerancia a fallos, rendimiento y la familiaridad del equipo con la tecnología seleccionada.
 
 ## Consequences
-Aprovecharemos los beneficios específicos de la tecnología seleccionada.
-Nos enfrentaremos a desafíos particulares asociados con la elección, como la curva de aprendizaje o posibles limitaciones de rendimiento.
+Aprovecharemos los beneficios específicos de la tecnología seleccionada, en especial soporte para flujos de datos en tiempo real para requerimientos futuros.
+Por otro lado aprovechamos las configuraciones de stack pre-establecidas y el conocimiento del equipo.
+Nos enfrentaremos a desafíos particulares asociados con la elección, como la curva de aprendizaje para nuevos integrantes del equipo o posibles limitaciones de rendimiento.

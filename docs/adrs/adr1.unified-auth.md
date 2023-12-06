@@ -19,6 +19,7 @@ La opción seleccionada es SSO (Single Sign-On). Esto se elige para simplificar 
 * Eficiencia: Optimizar el tiempo de acceso a ambas plataformas al eliminar la necesidad de ingresar credenciales múltiples.
 
 ### Cons
+* Disponibilidad: Agrega un nodo adicional al flujo de autenticación/autorización
 * Complejidad: Posibles desafíos técnicos durante la implementación de SSO, necesidad de coordinación entre equipos de desarrollo.
 * Costos: Características avanzadas de SSO puede ocasionar gastos adicionales a medida que el proyecto crezca
 * Soporte multitenancy: Es necesario configurar un proveedor de identidad multi-tenancy
