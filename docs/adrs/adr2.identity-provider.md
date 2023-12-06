@@ -1,5 +1,7 @@
 # ADR #2 - Proveedor de identidad
 
+Status: Approved
+
 ## Context
 La aplicación requiere una solución de Single Sign-On (SSO) para mejorar la experiencia del usuario y la seguridad en la autenticación. 
 

@@ -1,5 +1,7 @@
 # ADR #4 - Tecnología de Mensajería
 
+Status: Approved
+
 ## Context
 En el proceso de integración del Sistema de Gestión de Capital Humano (HCM), se reconoce la necesidad de seleccionar una tecnología de mensajería adecuada para facilitar la comunicación entre los diversos componentes del sistema. Se han identificado varias opciones, cada una con sus propias características y consideraciones.
 

@@ -1,5 +1,7 @@
 # ADR #3 - Integración del sistema de gestión de capital humano
 
+Status: Approved
+
 ## Context
 La necesidad de integrar dos sistemas independientes con el objetivo de mejorar la interoperabilidad y la eficiencia operativa.
 

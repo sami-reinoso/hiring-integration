@@ -1,5 +1,7 @@
 # ADR #1 - Autenticación unificada
 
+Status: Approved
+
 ## Context
 La autenticación unificada busca mejorar la experiencia del usuario al reducir la necesidad de iniciar sesión repetidamente en cada sistema, sin necesidad de recordar dos pares de credenciales.
 
