@@ -1,4 +1,5 @@
 * [Inicio](/)
+* [Glosario](/glossary.md)
 * [Issues](/issues.md)
 * ADRs
   * [ADR #1 - Autenticación unificada](adrs/adr1.unified-auth.md)
