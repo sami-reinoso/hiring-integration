@@ -11,6 +11,7 @@ La autenticación unificada busca mejorar la experiencia del usuario al reducir 
 ## Decision
 La opción seleccionada es SSO (Single Sign-On). Esto se elige para simplificar el proceso de inicio de sesión, proporcionar una experiencia de usuario fluida y mejorar la eficiencia al permitir a los usuarios acceder a ambos sistemas con una sola autenticación de manera segura.
 
+## Consequences
 
 ### Pros
 * Seguridad: Garantizar la seguridad de las credenciales y la integridad de los datos durante el proceso de autenticación mediante SSO.

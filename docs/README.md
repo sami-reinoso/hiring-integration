@@ -19,21 +19,21 @@ Facilitar la sincronización entre el sistema de 'Reclutamiento y Selección' y 
 
 | Nombre | Descripción |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Recruitment portal | Proporciona una interfaz web para el sistema de reclutamiento y selección. |
+| Recruitment and hiring portal | Proporciona una interfaz web para el sistema de reclutamiento y selección. |
 | HCM portal | Proporciona una interfaz web para el sistema de Gestión de capital humano. |
 | Integration | Facilita la integración de datos relacionados con los empleados desde diversas fuentes, garantizando la coherencia y la actualización de la información. |
 | Recruitment | Facilita la búsqueda y atracción de candidatos, incluyendo la publicación de empleos en diversos canales, la gestión de eventos de reclutamiento y la promoción de la marca empleadora. |
 | Candidate Management | Facilita el seguimiento de los candidatos a lo largo del proceso de contratación, desde la aplicación hasta la decisión final. |
 | Employee Management | Incluye funciones básicas como el mantenimiento de perfiles de empleados, detalles de contacto, historial laboral, y otra información relevante. |
 | Recruitment Database | Gestiona información específica sobre puestos de trabajo, permitiendo un seguimiento detallado de las oportunidades laborales. |
-| Candidates Tenant n Database | Gestiona información específica sobre candidatos, asegurando la segregación de datos entre diferentes instancias de la aplicación. |
-| Employees Tenant n Database | Gestiona información específica sobre empleados, garantizando la segregación de datos entre diferentes instancias de la aplicación. |
+| Candidates Database | Gestiona información específica sobre candidatos, asegurando la segregación de datos entre diferentes instancias de la aplicación. |
+| Employees Database | Gestiona información específica sobre empleados, garantizando la segregación de datos entre diferentes instancias de la aplicación. |
 
 ## Atributos de calidad relevantes
 
-* Disponibilidad: La disponibilidad se refiere a la capacidad del sistema de estar operativo y accesible cuando se necesita.
-* Escalabilidad: La escalabilidad se refiere a la capacidad del sistema para manejar un crecimiento en la carga de trabajo sin comprometer su rendimiento.
-* Rendimiento: El rendimiento se refiere a la eficiencia y velocidad con la que el sistema responde a las solicitudes.
-* Seguridad: La seguridad implica proteger la integridad, confidencialidad y disponibilidad de la información. 
-* Usabilidad: La usabilidad se refiere a la facilidad con la que los usuarios pueden interactuar con el sistema.
-* Interoperabilidad: La interoperabilidad se refiere a la capacidad del sistema para integrarse y cooperar con otros sistemas de manera efectiva.
+* Disponibilidad:La disponibilidad hace referencia a la capacidad del sistema para mantenerse operativo y accesible cuando se requiere. Este atributo cobra especial relevancia en periodos estacionales, como quincenas, momento en el cual se genera la emisión de nóminas.
+* Escalabilidad: La escalabilidad se refiere a la capacidad del sistema para gestionar un aumento en la carga de trabajo sin comprometer su rendimiento. Se anticipa un crecimiento en el número de clientes debido a la alianza estratégica y al proyecto de integración.
+* Rendimiento: El rendimiento se relaciona con la eficiencia y velocidad de respuesta del sistema a las solicitudes. Es esencial que la velocidad de respuesta no se vea afectada durante el proceso de integración.
+* Seguridad: La seguridad implica proteger la integridad, confidencialidad y disponibilidad de la información. La confidencialidad de los datos se vuelve crucial al compartir información entre dos sistemas, ya que existe un contrato que penaliza la exposición no autorizada de datos.
+* Usabilidad: La usabilidad se refiere a la facilidad con la que los usuarios pueden interactuar con el sistema. Es especialmente importante mejorar la transparencia en el proceso de integración para que la operación del usuario sea fluida en todas las etapas de la gestión de personas, tanto antes como durante toda la relación laboral.
+* Interoperabilidad: La interoperabilidad aborda la capacidad del sistema para integrarse y colaborar de manera efectiva con otros sistemas. Se identifican necesidades adicionales de integración con los sistemas involucrados en este proyecto.

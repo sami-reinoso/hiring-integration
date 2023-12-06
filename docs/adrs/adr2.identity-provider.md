@@ -17,7 +17,7 @@ La aplicación requiere una solución de Single Sign-On (SSO) para mejorar la ex
 
 ## Desicion
 Se ha decidido seleccionar Auth0. Auth0 ofrece una solución integral de identidad y acceso que ofrece SSO para diversas aplicaciones. 
-Ambos sistemas, el sistema de selección y el sistema de capital humano, actúan como proveedores de servicio.
+Ambos sistemas, el sistema de selección y el sistema de capital humano, actúan como proveedores de servicios.
 
 ## Consequences
 
